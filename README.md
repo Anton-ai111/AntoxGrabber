@@ -1,8 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/3ct0s/"><img src="https://i.ibb.co/qY09wWK/download-2.png" width=600 weigth=500 alt="Dystopia"></a>
   <br>
-  Dystopia
+  Antox Grabber
   <br>
 </h1>
 
