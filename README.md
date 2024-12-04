@@ -36,8 +36,8 @@ Antox is equipped with a lot of features **some** of which are:
 
 Antox is better installed and used on Kali Linux:
 ```
-git clone https://github.com/3ct0s/Dystopia-c2
-cd ./Dystopia-c2
+git clone https://github.com/Anton-ai111/AntoxGrabber.git
+cd ./AntoxGrabber
 chmod +x setup.sh
 ./setup.sh
 ```
