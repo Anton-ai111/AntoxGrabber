@@ -32,6 +32,7 @@ $$ |  $$ |$$ |  $$ |  \$$$$  |\$$$$$$  |$$  /\$$\       \$$$$$$  |$$ |      \$$$
                                                                                                                               
                     Made by Anton H
                     Only LEGAL lol
+                    Run "help use"
 ''')
 
 list = ["None", "None", "None", "None", "None"]
