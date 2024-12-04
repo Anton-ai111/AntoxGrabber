@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">Dystopia Command and Control</h4>
+<h4 align="center">Antox Command and Control</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Backdoor_Platform-Windows-blue">
@@ -15,17 +15,17 @@
 
 ---
 
-## What is Dystopia?
+## What is Antox?
 
-Dystopia is a malware generator that generates backdoors which use online platforms as C2s. This includes Discord, Telegram and Github. 
+Antox is a malware generator that generates backdoors which use online platforms as C2s. This includes Discord, Telegram and Github. 
 
 Our goal is to prove that anything can be a C2, if you want to :) ...
 
 ## How does it work?
 
-The Dystopia backdoors are using libraries which allow the backdoor to act as a "Bot" for the above-mentioned platforms. Essentially the attacker contacts the bot and specifies a malicious command to execute on the target "Agent". 
+The Antox backdoors are using libraries which allow the backdoor to act as a "Bot" for the above-mentioned platforms. Essentially the attacker contacts the bot and specifies a malicious command to execute on the target "Agent". 
 
-Dystopia is equipped with a lot of features **some** of which are:
+Antox is equipped with a lot of features **some** of which are:
 - Encrypted traffic (HTTPS)
 - Running system commands on target Agent
 - Keylogger (Limited to Discord)
@@ -34,7 +34,7 @@ Dystopia is equipped with a lot of features **some** of which are:
 
 ## Installation and Usage
 
-Dystopia is better installed and used on Kali Linux:
+Antox is better installed and used on Kali Linux:
 ```
 git clone https://github.com/3ct0s/Dystopia-c2
 cd ./Dystopia-c2
@@ -53,10 +53,8 @@ set webhook <discord webhook>
 build
 ```
 
-## How to Setup Dystopia
-Since the setup process is very specific for each platform:
-
-> Please follow the [setup guide](https://github.com/3ct0s/dystopia-c2/wiki/) to setup Dystopia.
+## How to Setup Antox
+Since the setup process is very specific for each platform.
 
 ## Contributors
 Contributions are welcome to our GitHub repo! We value community involvement and appreciate all types of contributions, from bug reports to code. Join us in building something great and making a positive impact on the world. Get involved today!
